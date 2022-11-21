@@ -1,0 +1,15 @@
+.heading{
+  border-bottom: 1px solid grey;
+}
+
+body{
+  background-color: #000;
+}
+
+h1,p{
+  color: white;
+}
+
+hr{
+  background-color: white;
+}
